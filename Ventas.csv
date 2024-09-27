@@ -1,0 +1,7 @@
+fecha,producto,cantidad,precio_unitario
+2024-01-01,Producto A,10,5.0
+2024-01-01,Producto B,5,10.0
+2024-01-02,Producto A,20,5.0
+2024-01-02,Producto C,15,7.0
+2024-01-03,Producto B,10,10.0
+2024-01-03,Producto C,5,7.0
