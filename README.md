@@ -9,3 +9,7 @@ Se realizaron las siguientes tareas:
 *Visualizacion grafica de resultados.
 
 Las dependecias que se va a necesitar lo encuentras en el archivo requirements.txt
+pip install -r requirements.txt
+
+Se deja el repositorio de github para la clonacion:
+https://github.com/lledesmav/Analisis-de-venta.git
